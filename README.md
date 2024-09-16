@@ -17,5 +17,6 @@ Este script toma el texto extraído de los archivos escaneados y lo preprocesa p
 **Uso**: 
   ```bash
 python preprocesar_texto_extraido.py
-- **Input** : Archivos de texto en crudo (e.g., extracted_texts(aranes).txt).
-- **Output** : Archivos procesados con las oraciones limpias y listas para la alineación. (e.g. , extracted_texts(aranes)_procesado.txt)
+-  **Input** : Archivos de texto en crudo (e.g., extracted_texts(aranes).txt).
+-  **Output** : Archivos procesados con las oraciones limpias y listas para la alineación. (e.g. , extracted_texts(aranes)_procesado.txt)
+
