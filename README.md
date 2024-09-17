@@ -1,5 +1,5 @@
 # TFM-MasterIA: Explotación de corpus pequeños para la incorporación de nuevos idiomas de pocos recursos a modelos de lenguaje masivos
-Este proyecto se centra en la explotación de corpus pequeños de idiomas de bajos recursos (Aragonés, Asturiano, Aranés) para su incorporación en modelos de traducción automática. El proyecto utiliza herramientas como Vecalign para la alineación de oraciones, LASER para generar embeddings multilingües, y la API de OpenAI para realizar prompting.
+Este proyecto se basa en la explotación de corpus pequeños de idiomas de bajos recursos (Aragonés, Asturiano, Aranés) para su incorporación en modelos de traducción automática. El proyecto utiliza herramientas como Vecalign para la alineación de oraciones, LASER para generar embeddings multilingües, y la API de OpenAI para realizar prompting.
 ## Descripción General
 
 Este proyecto tiene los siguientes objetivos principales:
