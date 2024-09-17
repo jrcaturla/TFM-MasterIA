@@ -1,0 +1,414 @@
+source: 'Etn men diboish non representave cap un chapèu.'
+target:
+
+source: 'E volat un shinau per tot eth mon. E era geografia, ei vertat, que m'a servit molt. Sabia reconéisher ath prumèr còp de uelh, era China dera Arizona.'
+target:
+
+source: 'Visquì atau solet, sensen arres damb qui parlar vertadèrament, enquia qu'aui ua pana en desèrt deth Sahara, hè sies ans.'
+target:
+
+source: 'È!'
+target:
+
+source: 'Me guardaua donques aquera aparicion damb es uelhs redoni d’estonament.'
+target:
+
+source: 'abitadi e en perilh de mòrt, tirègui dera mia pòcha ua huelha de'
+target:
+
+source: 'Ua bôa ei molt perilhosa, e un elefant ten massa plaça.'
+target:
+
+source: 'Eth mèn amic arric amablament, damb indulgéncia'
+target:
+
+source: 'Acò ei era caisha.'
+target:
+
+source: 'E atau siguec com coneishí ath petit prince.'
+target:
+
+source: 'Alavetz cridéc:'
+target:
+
+source: 'De seguida entrevedí un shinau de claror en mistèri dera sua preséncia, e li demandè bruscament:'
+target:
+
+source: 'Me responec dempús d’un silenci meditatiu:'
+target:
+
+source: 'Tà on sigue.'
+target:
+
+source: 'Li n ditz per exemple: er asteroide 325.'
+target:
+
+source: 'Quan les parlatz d’un nau amic, non vos demanen jamès sus aquerò essencial.'
+target:
+
+source: 'Les au de didèr: «E vist ua casa de cent mil francs».'
+target:
+
+source: 'M’aurie agradat didèr:'
+target:
+
+source: 'E contie de tornar a diboishar, ara mia edat, quan non s’an hèt d’autes temptatives qu’era d’ua bisha barrada e era d’ua bòa dubèrta, ara edat de sies ans!'
+target:
+
+source: 'Dilhèu jo sò un shinhau com es persones granes.'
+target:
+
+source: 'Mès eth petit prince higec:'
+target:
+
+source: 'A veir!'
+target:
+
+source: 'I auie donc grans terribles ena planeta deth petit prince, era seme de baobabs.'
+target:
+
+source: 'E un dia m'aconsehè d'esforçar-me entà hèr un polit diboish, entà hèr a entrar aquerò en cap des mainatges deth men país.'
+target:
+
+source: 'Tietz compte damb es baobabs!” Ei entà avertir es miei amics d’un perilhs qu’aauen tan torn des de hège temps, com jo m’adeshi, sense coneisherò, que tan trabalherè en aqueth diboish.'
+target:
+
+source: 'Demorar qué?'
+target:
+
+source: 'E guarduares eth solei cògar-se tostemps que volies...'
+target:
+
+source: 'E es flors qu’an espines tanben? Tòc.'
+target:
+
+source: 'Mès dempús d’un silenci me tirèc, com damb rancura:'
+target:
+
+source: 'E responut quinsevolh causa.'
+target:
+
+source: 'Coneishí ua planeta a on i a un senhor cremesin. Jamès a alorat ua flor. Jamès a guardat ua estela. Jamès a estimat arren.'
+target:
+
+source: 'Que non ei importanta era guèrra des anhèths e des flors?'
+target:
+
+source: 'I auie sus ua estela, ua planeta, era mia, era Tèrra, un petit prince tà consolar!'
+target:
+
+source: 'Euelhie damb suenh es sons colors.'
+target:
+
+source: 'Que polida què ètz!'
+target:
+
+source: 'Non sò cap ua èrba, jo, responèc doçament era flor.'
+target:
+
+source: 'Non auie pas podut conéisher d’auti mons.'
+target:
+
+source: 'E encara me diguec:'
+target:
+
+source: 'Tanben auie un volcan escandit.'
+target:
+
+source: 'Adiu, -li diguèc era flor.'
+target:
+
+source: 'Saja d’èster eròis. Deishà estar aqueth glòbe. Non le voi més.'
+target:
+
+source: 'diguéc:'
+target:
+
+source: 'Com me pot reconéisher se non m’a vist jamès!'
+target:
+
+source: 'Alavetz -li diguéc eth rei-, t’ordeni de badalhar.'
+target:
+
+source: 'Ere un monarca absolut. Mès com ère ben brave, daue òrdres rasonables.'
+target:
+
+source: 'Sus tot – responéc eth rei, damb ua grana simplicitat.'
+target:
+
+source: 'Non toleri pas era indisciplina.'
+target:
+
+source: 'S’ordènes ath ton pòble d’anar-se a lançar ena mar, harà era revolucion.'
+target:
+
+source: 'aquerò serà era... aguero serà aguesta net cap as sèt e quaranta!'
+target:
+
+source: 'Non ac sabem —li diguec eth rei—.'
+target:
+
+source: 'Non me cau pas demorar aciu.'
+target:
+
+source: 'Poirè ordènar-me, per exemple, d’anar-m’en abans que passe ua minuta.'
+target:
+
+source: 'Bon dia,-diguéc eth petit prince.'
+target:
+
+source: 'Ath cap de dètz minutes d’exercici eth petit prince se canséc dera monotonia deth jòc:'
+target:
+
+source: 'T’admiri, – diguec eth petit prince, nautant un shinhau es espatles, – mès qué n’as de hèr?'
+target:
+
+source: 'Entà desbrembar – responec eth beuedor.'
+target:
+
+source: 'Era quatau planeta ère era d’eth dome de negòcis.'
+target:
+
+source: 'Pas eth temps de tornar-la a luggar.'
+target:
+
+source: 'Cinc cents un milious de qué?'
+target:
+
+source: 'Didia alavetz cinc cents un milious...'
+target:
+
+source: 'Ah!'
+target:
+
+source: 'Arren.'
+target:
+
+source: 'Entà crompar d’autes esteles, se bèu un ne tròbe.'
+target:
+
+source: 'E tant.'
+target:
+
+source: 'Eth petit prince ne èra satisfèt encara.'
+target:
+
+source: 'Ei pro poètic.'
+target:
+
+source: 'Eth petit prince non arribae pas a explicarse entà qué podien servir, en un lòc deth cèu, en ua planèta sense cases ne gent, un lampadari e un alugaire de lampadaris.'
+target:
+
+source: 'Ei era consigna -responéc er alugaire-.'
+target:
+
+source: 'Era consigna ei era consigna.'
+target:
+
+source: 'E alavetz?'
+target:
+
+source: 'Trenta dies!'
+target:
+
+source: 'Eth petit prince contunhèc:'
+target:
+
+source: 'Panteishèc de tristòr e se didè entre eth madeish:'
+target:
+
+source: 'D’a on viès?'
+target:
+
+source: 'E de còp de uelh ath torn d’eth ena planeta deth geògraf. Jamès auie vist encara ua planeta tan majestuosa.'
+target:
+
+source: 'As arrason, —diguèc eth geògraf—, més jo non sò cap explorador. Non i a cap d’explorador.'
+target:
+
+source: 'Perqué es beguèi un doble. Alavetz eth geograﬁ mercarie dues montanhes aquiu a on sonque n’i a ua.'
+target:
+
+source: 'Tu ès explorador!'
+target:
+
+source: 'Non se sap jamès –diguèt eth geograﬁ.'
+target:
+
+source: 'Mès es volcans amortadi se pòden desvelhar –interrompèc eth prince.'
+target:
+
+source: 'E l’è deishada tota soleta en casa mia!..'
+target:
+
+source: 'Entà dar-vos ua idèa des dimensions dera Tèrra vos diderei qu’abans dera invencion dera electricitat calie manèner, en ensemble des sies continents, ua vertadèra armada de quate cents seishanta ta dus mil cinc cents ualguèrs de lampions.'
+target:
+
+source: 'Página 60:'
+target:
+
+source: 'Eth petit prince, un còp ena Tèrra, siguec donc ben suspres de non veir ad arrés.'
+target:
+
+source: 'Açò ei eth desèrt.'
+target:
+
+source: 'E totis dus carèren.'
+target:
+
+source: 'S'entortilhèc ath torn deth cauilh ar deth petit prince, coma un bracelet d'or:'
+target:
+
+source: 'E toti dus càteren.'
+target:
+
+source: 'Les vedi i a quauqui ans.'
+target:
+
+source: 'Bon dia—disèc ar azard.'
+target:
+
+source: 'Repetissen aquerò que les dises… En mèn país auia ua flor: era parlave tostemp era prumèra…'
+target:
+
+source: 'Ah!—disèc eth petit prince…'
+target:
+
+source: 'Bon dia —diguéc era vop.'
+target:
+
+source: 'Mès, dempús de pensar, higec:'
+target:
+
+source: 'Non –diguéc eth petit prince–.'
+target:
+
+source: 'Tu seràs entà jo unic en mon. Jo seré entà tu unic en mon.'
+target:
+
+source: 'Non.'
+target:
+
+source: 'Coneisheri un sorrolh de pas que serà diferent a toti es autis.'
+target:
+
+source: 'Se te platz... amistosa-me!'
+target:
+
+source: 'Cau èster bien pacient –responèc era vop–.'
+target:
+
+source: 'Qué ei un rite?'
+target:
+
+source: 'Ah!—diguèc era vop... Plorarè.'
+target:
+
+source: 'Eth petit prince se n’anèc a veir es ròses:'
+target:
+
+source: 'Tornèc cap ara vop:'
+target:
+
+source: 'Jo sò responsable d'era mia ròsa... -tornèc a díder eth petit prince, entà brembarse'n.'
+target:
+
+source: 'E bronhé, en sens contrari, un segond rapid illuminat.'
+target:
+
+source: 'Non persegueishen cap arren -diguéc eth guardaguelles-, Aquiu lagenes dormissen, o ben badalhen. Sonque es mainatges'
+target:
+
+source: 'Per qué venes açò?'
+target:
+
+source: 'Petit omenet, non ei cap de vops que cau parlar!'
+target:
+
+source: 'Non obstant, començerèm a caminar.'
+target:
+
+source: 'Es estèles son polides per’mor d’ua flor que non vedem...'
+target:
+
+source: 'Era mia casa amague un tresòr ath hons deth sòn còr...'
+target:
+
+source: 'Cau protegièr bien es lampes: un còp d’aire les pòt amortar…'
+target:
+
+source: 'Ei estranh—li digui ath petit prince—, tot ei prest: era polea, eth farrat e era còrda…'
+target:
+
+source: 'Nautè eth farrat tà apropar-lac enes pòts. Buec damb es uelhs clucats.'
+target:
+
+source: 'E eth petit prince higec:'
+target:
+
+source: 'Eth petit prince les vedec e diguec en tot arirr:'
+target:
+
+source: 'E se me sarrèc eth còr quan l’ac daua:'
+target:
+
+source: 'Te n’ei tornaues tath lòc a on auies queigut?'
+target:
+
+source: 'Torna deman ath ser...'
+target:
+
+source: 'Anc caminant cap ara paret. Non vedí ne entenía ad arrés.'
+target:
+
+source: 'Ara, vèc-e’n, -li diguèc eth.- Voi tornar a baishar!'
+target:
+
+source: 'Me diguec: Só content qu’ages trobat ce que calie tara tua maquina.'
+target:
+
+source: 'damb es braç com a un mainagòt, e totun me semblauè que s’escapue veraciment cap a un abisme sense que i poguessè hèr'
+target:
+
+source: 'Aurè mes pòur aué ath ser...'
+target:
+
+source: 'Mès non me respondec cap ara question. Me diguec:'
+target:
+
+source: 'musica, per’mor dera polea e dera còrda... te’n brembes... ère'
+target:
+
+source: 'Ah! Petit conenet, petit onenet, m’agrade enténer aqueth arrir!'
+target:
+
+source: 'Quan guardaràs eth cèu, pera net, perqué jo viuerèi en ua d’e- res, perqué arriré en ua d’eres, alavetz entà tu serà com se totes es estèles arririen.'
+target:
+
+source: 'E arric un aute còp.'
+target:
+
+source: 'Pòden mossegar per plaser...'
+target:
+
+source: 'Semblarà que sía mòrt e non serà cap vertat...'
+target:
+
+source: 'Mès encara hec un esfòrç:'
+target:
+
+source: 'Deisha-mé hèr un pas tot solet.'
+target:
+
+source: 'Non i auéc arrèn més qu'un lampit aurò ath cant deth sòn'
+target:
+
+source: 'Ena'
+target:
+
+source: 'es esquirolets se tornen toti bèrmes...! Quejauqe a plaser com qu'è un arbe.'
+target:
+
+source: 'E, se vos arribe de passar per aqui, se ac prègui, non vos pressez cap, demoratz un shinhau just dejós dera estela!'
+target:
+

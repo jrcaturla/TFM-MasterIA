@@ -1,0 +1,372 @@
+source: 'Ei ben util, se te desorientes per neta'
+target:
+
+source: 'Visquì atau solet, sensen arres damb qui parlar vertadèrament, enquia qu’aui ua pana en desèrt deth Sahara, hè sies ans'
+target:
+
+source: 'Me heireguè ben es uelhs'
+target:
+
+source: 'Quan poguí fin finament arribar a parlar, li diguí'
+target:
+
+source: 'Ua bòta ei molt perilhosa, e un elefant ten massa plaça'
+target:
+
+source: 'Ac ves ben'
+target:
+
+source: 'Ei ben ben atau que lo volia! Penses que li calerà dar guaire èrba ad aquest anhèth'
+target:
+
+source: 'Açò vòle'
+target:
+
+source: 'De seguida entervedí un shinhau de claror en mistèri dera sua preséncia, e li demanèi bruscament'
+target:
+
+source: 'Me responec dempús d'un silenci meditatiu'
+target:
+
+source: 'Non i hè cap arrèr, eth mèn país ei tan petit! E damb un sinhau de pena, me semble, higec'
+target:
+
+source: 'Mès degun lo credece pera manèra com anave vestit'
+target:
+
+source: 'Sabes se hè colleccion de parapluishes'
+target:
+
+source: '-Ei vist ua casa de cent mil francs'
+target:
+
+source: 'Mès, ei clar, nosati que comprenem era vida, non’ o trufam plan des numèros'
+target:
+
+source: 'E jo pogui èster com es persones granes, que sonque les interessen es chi- fras'
+target:
+
+source: 'Dilhèu se pensaque que me semblaua ab tàth Mès jo, malaurousament, non sabia cap veir es anhèths a travèrs des caishes'
+target:
+
+source: 'Mès eth petit prince higece'
+target:
+
+source: 'En efècte, ena planeta deth petit prince i auie, com en totes es planètes, bones e males èrbes'
+target:
+
+source: 'Ei ua question de disciplina - me didie mès tard eth petit prince'
+target:
+
+source: 'Era leçon que dau vaille era pena'
+target:
+
+source: 'E me diguist'
+target:
+
+source: 'Me demanéc bruscament e sense prambuls, com eth frut d’un problèma meditat en silenci hège temps'
+target:
+
+source: 'Era enrabiat per aqueth bolon e responí qualquèrra causa'
+target:
+
+source: 'Jo m'encuèi de causes serioses! Me guardèt de estonat'
+target:
+
+source: 'Un misharona! Eth petit prince auè mau color dera malícia'
+target:
+
+source: 'Sauè hèt de net'
+target:
+
+source: 'Mès er arbonhòi non pascè mès e comencè a hèr un lor'
+target:
+
+source: 'Eth petit prince vedec que non ère cap guaire modèsta, mès ège tant de gòi de veider-la! Me semble qu’ei era ora d’esdejoar, li diguec de seguida, series tant amable de pensar en jo'
+target:
+
+source: 'Aquesta flor ei ben complicada Ath ser me meteratz dejós d’un glòbe Hé mot de heired aciu'
+target:
+
+source: 'Non sabi compréner arren alavetz! L’auria agut de jutjar per actes e non pes mots'
+target:
+
+source: 'Per aquerò mos pòrtèn tant desgusti'
+target:
+
+source: 'Te demani perdon'
+target:
+
+source: 'So ua flor'
+target:
+
+source: 'S’as decidit d’anar-te’n Vè-te’n'
+target:
+
+source: 'Eth petit prince cercuég damb es uelhs a on podie sèitar-se, més era planeta ère tota encombrada peth magnific abric d’ermini'
+target:
+
+source: '–diguéc eth petit prince tot vermelh'
+target:
+
+source: 'Era planeta ère minuscula En qué podie regnar eth rei'
+target:
+
+source: 'Sus tot aquerò –responéc eth rei'
+target:
+
+source: 'Se jo ordenèsse a un generau de volar d’un tau tà un ua paraplòha, o d’escriuèr ua tragèdia, o de tornarse aude’t de mar, e se generau non complisse era òrde recebuda, qui, jo o eth, anarie enganhuat'
+target:
+
+source: 'L’exigirí'
+target:
+
+source: '- Non partísques, te hèsqui ministre! Ministre de qué'
+target:
+
+source: 'S’arribes a jutjar-te com cau, ei qu’ès un vertadèr sabi'
+target:
+
+source: 'Poirè ordenamè, per exemple, d’anarm’en abans que passe ua minuta'
+target:
+
+source: 'Portatz un chapèu ben estranh Ei entà saludar —i responec eth vanitós — Ei entà saludar quan m’aclamen'
+target:
+
+source: 'Es vanitosi non comprenen sonque es laudances'
+target:
+
+source: '—li diguec ath beuedor, que trobec installat en silenci deuant d’ua colleccion de botelhes vuedes e ua colleccion de botelhes plenes'
+target:
+
+source: 'Vergonha de béuer! —acabèc eth beuedor que s’embarrèc definitivament en silenci'
+target:
+
+source: 'Bon dia Quinze e sèt vint-e-dus'
+target:
+
+source: 'e tant de trabalh! Jo sò seriós, non m’entretenqui pas damb pequèries! Dus e cinc sèt'
+target:
+
+source: 'Eth tresau còp'
+target:
+
+source: 'Aquero qu’èi'
+target:
+
+source: 'Tu possedísques es esteles'
+target:
+
+source: 'Aqueth, diguère entre deth madèish eth petit prince, rasonèc un shinhau com eth mèn beucòrdTotun encara li demanèc causes'
+target:
+
+source: 'Quan tròbes ua isla que non ei de degun, ei tua'
+target:
+
+source: 'Ja se possedísqui ua flor la pogui cuélher e emportar-me-la’n'
+target:
+
+source: 'Aquerò les servís as mèns volcans, e i a servís ara mèna flor, que les possedísca'
+target:
+
+source: 'Se més non, eth sòn trabalh a un sens'
+target:
+
+source: 'Ei era consigna -responéc er alugaire'
+target:
+
+source: 'Era consigna non a cap cambiat -diguéc er alugaire-'
+target:
+
+source: 'Se li benhèc des sòns colgossis qu’eth madeish anava a cercar, botjant era sua cuèta'
+target:
+
+source: 'e eth dia durà eth temps que tu voleràs'
+target:
+
+source: 'Aquerò qu’eth petit prince non gosave reconèisher ère que li hège dò aquera planeta benedita per morr sus tot des mil quate cents quaranta viatges que se cogau eth solei en vint-e-quate ores!    **Era siesau planeta** ère ua planeta detz viatges mès grana'
+target:
+
+source: 'Qué ei un geografa'
+target:
+
+source: 'E vièls i a e desèrts'
+target:
+
+source: '**55** Per qué aquerò'
+target:
+
+source: 'Eth geograf tò d’un còp s’emocionéc'
+target:
+
+source: 'Nosati non senhalam cap es flors –diguéc eth geografl'
+target:
+
+source: 'Era nòsati de que comède era tiera montanha Era non cambie cap'
+target:
+
+source: 'Era planeta Tèrra—li responec eth geografl—'
+target:
+
+source: 'Alavetz entrauen en torn dera guarda es aujargies de lampadaries de China e de Siberia Dempuish era turnès escamotauen etens batidors'
+target:
+
+source: 'Poiriem apraiar era umanitat dessús der ilòt mès petit deth Pacific'
+target:
+
+source: '–demanèc eth petit prince'
+target:
+
+source: 'Mès qué luenh qu’ei! Ei polida –diguèc era sèrp–'
+target:
+
+source: 'Mès sò mès poderosa qu’un dit d’un rei –diguèc era sèrp'
+target:
+
+source: 'Let me know if you need any further assistance! «- Mè hès pietat, tu, tan fèble, en aquesta Tèrra de granit'
+target:
+
+source: '— demanèc educadament eth petit prince'
+target:
+
+source: '**Eth petit prince** pugèc ath cap d’ua nauta montanha'
+target:
+
+source: 'qui ètz vos'
+target:
+
+source: 'era parlave tostem prumèra'
+target:
+
+source: 'Ah! –diguéc eth petit prince'
+target:
+
+source: 'Ei alavetz qu’apareishec era vop'
+target:
+
+source: 'Qué vò díder "amistosar"'
+target:
+
+source: 'Qué vò díder "amistosar"'
+target:
+
+source: 'I a ua flor'
+target:
+
+source: 'Non'
+target:
+
+source: ') no i a son nimaj bric de pan Eth hormen entà jo ei inutil'
+target:
+
+source: 'Es òmes non an eth temps de coneisher arren mès'
+target:
+
+source: 'Auesse vaut tès tomar ara madeisha ora -diguèc era vop'
+target:
+
+source: 'I a un rite, per exemple, entà es cacières'
+target:
+
+source: 'E òc —diguéc era vop'
+target:
+
+source: 'Vosates ètz polides, mès vuedes —les diguéc eth encara—'
+target:
+
+source: 'Aquerò essenciau ei invisible entàs uelhs—tornèc a díder eth petit prince, entà brembar-se’n'
+target:
+
+source: 'Bon dia -diguéc eth guardaguhes'
+target:
+
+source: '-demandéc eth petit prince'
+target:
+
+source: 'Sonque es mainatges saben ce que cerquen -hec eth petit prince-'
+target:
+
+source: 'Es expèrts an hèt calculs T’estalvies cinquanta tres minutes per setmana'
+target:
+
+source: 'Jo sò ben content d’auér agut ua vop'
+target:
+
+source: 'Tu tanben as set alavetz'
+target:
+
+source: 'Te sès dessús d’ua duna de sable Non ves arren Non entenes arren E totun quauquarren luzís en silenci'
+target:
+
+source: '«Açò que vesi quau non ei qu’a ua crospa Aquerò mès important ei invisible'
+target:
+
+source: 'Non ei cap era pena Eth pòtz que trobèren non se semblave cap a pòtz saharians'
+target:
+
+source: 'Lo i placè ben a plomh Ères mies aurèlhes durauen eth cant dera polea, e ena aigua que tremolave encara vedie tremolar eth sòlh'
+target:
+
+source: 'E totun, aquerò que cerquen se poirie trobar en ua ròsa o un shinhau d’aigua'
+target:
+
+source: 'Ja ac sabes'
+target:
+
+source: 'E se me sarrèc eth còr quan l’ac daua'
+target:
+
+source: 'Alavetz non ei cap per escadéncia qu’eth matin que te coneshì, hè dies t’i, passagues atau tot solet a mil miles de totes es regions abitades'
+target:
+
+source: 'Torna deman ath ser'
+target:
+
+source: 'Segur queòc Veiràs o an comencè era mia tralha en sable'
+target:
+
+source: 'Arribè eth paret just a temps entà préner eres braç ath men oment, qu'ère blanc com era nhèu'
+target:
+
+source: 'Dempuòi, malencòniás'
+target:
+
+source: 'Sentia que s'escauhaue pòga pòc'
+target:
+
+source: 'Era mia estela se trobarà just ath dessús d'eth loch a on queigui er an passat'
+target:
+
+source: 'Era que m'as dat tà béuer ère com ua musica, per mor dera polea e dera còrda'
+target:
+
+source: 'Era gent an esteles que non son es maidesishes tà toi'
+target:
+
+source: 'Tostemp seràs eth men amic Vòleràs arrir damb jo'
+target:
+
+source: 'Non te deisharé cap'
+target:
+
+source: 'Non te deisharé cap'
+target:
+
+source: 'Comprenes'
+target:
+
+source: 'Totes es esteles me daran a béuer'
+target:
+
+source: 'A quate espies d'arren de bon entà protegir-la contra eth mon'
+target:
+
+source: 'Encara non è condat jamès aguesta istoria Es companhs que me tornèren a vier sigueren ben contens de veir-me viu'
+target:
+
+source: 'Ei ben possible qu'er anhèth s'age minjat era flor'
+target:
+
+source: '«Er anhèth se l’a minjada o non era flor'
+target:
+

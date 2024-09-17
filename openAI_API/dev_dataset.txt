@@ -1,0 +1,414 @@
+source: 'Representava ua sèrp bèra que digeric un elefant.'
+target: 'Representaba una serpiente boa que digiere un elefante.'
+
+source: 'Ei ben util, se te desorientes per neta.'
+target: 'Esto es muy útil, sobre todo si se pierde uno durante la noche.'
+
+source: 'E trinquè quauquarren en men motor.'
+target: 'estropeado en el motor.'
+
+source: 'Diboisha-me un anhèth...'
+target: '¡Píntame un cordero!'
+
+source: 'Non desbrembètz pas que me trobaua a mil miles de tota tèrra abitada.'
+target: 'No hay que olvidar que me encontraba a unas mil millas de distancia del lugar habitado más próximo.'
+
+source: 'papèr e un esliçografa.'
+target: 'pluma fuente.'
+
+source: 'Eth país a on viui ei molt petit.'
+target: 'En mi tierra es todo muy pequeño.'
+
+source: 'Ac vès ben... que non ei un'
+target: '¿Ves?'
+
+source: 'Er anhèth que tu vò’s ei laguens.'
+target: 'El cordero que quieres está adentro.'
+
+source: 'Me calgue fòrça temps entà compréner d’a on viege.'
+target: 'Me costó mucho tiempo comprender de dónde venía.'
+
+source: 'Com!'
+target: '¡Cómo!'
+
+source: 'Que vès alavetz de ua auta planeta?'
+target: '¿Tú vienes, pues, de otro planeta?'
+
+source: 'Guarda, aquesta casaia que m’as dat, anarà ben perqué per net, li servirà de casa.'
+target: 'Lo bueno de la caja que me has dado es que por la noche le servirá de casa.'
+
+source: 'Seguir tot dret...'
+target: 'Derecho camino adelante…'
+
+source: 'È rasons serioses entà creir qu’èra planetad’a on viege eth petit prince e er asteroide B 612.'
+target: 'Tengo poderosas razones para creer que el planeta del cual venía el principito era el asteroide B612.'
+
+source: 'Jamès vos diden: «Quin ei eth sòn dera sua votz?'
+target: 'Nunca se les ocurre preguntar: "¿Qué tono tiene su voz?'
+
+source: 'Alavetz s’exclamen: «Que polida ei!»'
+target: 'Entonces exclaman entusiasmados: "¡Oh, qué preciosa es!"'
+
+source: '«Un còp ère un petit prince que vie ue en ua planeta a penes mès gran qu’eth, e qu’aue de besonh un amic…» Entàs que comprenen era vida, aquerò semblat mès vertadèr.'
+target: '"Era una vez un principito que habitaba un planeta apenas más grande que él y que tenía necesidad de un amigo..." Para aquellos que comprenden la vida, esto hubiera parecido más real.'
+
+source: 'Clar que s’ajuarè de hèr retrats tan semblants com pogue. Mès non sò pas tot a hèt segur de gessen-ne.'
+target: 'Ciertamente que yo trataré de hacer retratos lo más parecido posibles, pero no estoy muy seguro de lograrlo.'
+
+source: 'Me deui'
+target: 'He debido envejecer.'
+
+source: 'E alavetz tanben minjen baobabs?'
+target: 'Entonces se comen también los Baobabs.'
+
+source: 'com se sigueusse ua evidéncia.'
+target: 'como si hablara de una evidencia.'
+
+source: 'Tot era planeta n'èra empestada.'
+target: 'El suelo del planeta está infestado de'
+
+source: 'Se bèth dia viatge -me didie-, les pòt servir.'
+target: '"Si alguna vez viajan, me decía, esto podrá servirles mucho.'
+
+source: 'Era leçon que dua vale era pena.'
+target: 'La lección que con él podía dar, valía la pena.'
+
+source: 'Demorar qu’eth solei se còque.'
+target: 'Que el sol se ponga.'
+
+source: 'Un dia, veid cògar-se eth solei quaranta quate viatges!'
+target: '¡Un día vi ponerse el sol cuarenta y tres veces!'
+
+source: 'Tanben es flors qu’an espines.'
+target: 'Sí; también las flores que tienen espinas.'
+
+source: 'Non te creiguí!'
+target: '¡No te creo!'
+
+source: 'Jo m'encuedi de causes serioses!'
+target: 'Tengo que ocuparme de cosas serias.'
+
+source: 'Jamès a hèt ua auta causa que s'assebre.'
+target: 'En toda su vida no ha hecho más que sumas.'
+
+source: 'Non ei mès seriós e mès important qu'es suenh d'un gran òme roi.'
+target: '¿No es esto más serio e importante que las sumas de un señor gordo y colorado?'
+
+source: 'Lo prenèc en brçac. Lo roncaua. E li didiá: -Era flor que tu aòs non ei en perilh... Li disboisharè ua armadura entara flor... Te disboisharè ua armadura entara flor...Te... Non sabiá pas ben ben se qué díder. Me trouaua estordit.'
+target: 'Lo tomé en mis brazos y lo mecí diciéndole: "la flor que tú quieres no corre peligro… te dibujaré un bozal para tu cordero y una armadura para la flor… te…".'
+
+source: 'Se vestie a plaser, ajustaue un a un es sons petais.'
+target: 'Elegía con cuidado sus colores, se vestía lentamente y se ajustaba uno a uno sus pétalos.'
+
+source: 'I a ves, responec docament era flor.'
+target: '¿Verdad? respondió dulcemente la flor—.'
+
+source: 'DesencusatZ-me...'
+target: 'Perdóname...'
+
+source: 'Avergonhída d’auer-se deishat suspéner atau dider ua mentira tant ingenua, estosse-quie dus o tres viatges, entad retéuir quau-quarren ath petit prince.'
+target: 'Humillada por haberse dejado sorprender inventando una mentira tan ingenua, tosió dos o tres veces para atraerse la simpatía del principito.'
+
+source: 'Non sabí compréner arrén alavetz!'
+target: '“¡No supe comprender nada entonces!'
+
+source: 'Mès, com eth didie: “jamès se sap!” Essoquèc tanben igualment eth volcan escandit.'
+target: 'Deshollinó también el volcán extinguido, pues, como él decía, nunca se sabe lo que puede ocurrir.'
+
+source: 'Mès era non li responèc pas.'
+target: 'Esta no respondió.'
+
+source: 'Ei eth vent...'
+target: 'Pero el viento...'
+
+source: 'Non romes més, èç agacant.'
+target: 'Y no prolongues más tu despedida.'
+
+source: 'Eth non sabie que, entàs rèis, eth mon ei ben simplificat.'
+target: 'Ignoraba que para los reyes el mundo está muy simplificado.'
+
+source: 'Non è vist badalhar a dregun des de hè ans.'
+target: 'Hace años que no veo bostezar a nadie.'
+
+source: 'S’ordènesse -didié soent-, s’ordènesse a un generau de tor nar-se en audèth de mar, e eth generau non anésse, non serie pas ua ethèr deth generau. Eth seré serie men.'
+target: 'Si yo ordenara —decía frecuentemente—, si yo ordenara a un general que se transformara en ave marina y el general no me obedeciese, la culpa no sería del general, sino mía".'
+
+source: 'Sus tot?'
+target: '¿Sobre todo?'
+
+source: 'Un poder com aqueth meravilhéc ath petit prince.'
+target: 'Un poder semejante dejó maravillado al principito.'
+
+source: 'Jo e eth dret d’exigir auberdiències perqué es mies òrdes son rasonables.'
+target: 'Yo tengo derecho a exigir obediencia, porque mis órdenes son razonables.'
+
+source: 'E l’écris com m’escote.'
+target: 'Ya verás cómo se me obedece.'
+
+source: 'Encara non è hèt eth torn deth mèn reiaume.'
+target: 'Nunca he recorrido todo mi reino.'
+
+source: 'Hem, hem!'
+target: '¡Ejem, ejem!'
+
+source: 'Me semble qu’es condicions son favorables...'
+target: 'Me parece que las condiciones son favorables...'
+
+source: 'Portatz un chapèu ben estranh.'
+target: '¡Qué sombrero tan raro tiene!'
+
+source: 'E, entà qué eth chapèu queigüe -demandèc,- qué cau hèr?'
+target: 'preguntó el principito.'
+
+source: 'E eth petit prince se n’anec.'
+target: 'Y el principito se marchó.'
+
+source: 'Entà desbrembar qué?'
+target: '¿Para olvidar qué?'
+
+source: 'Agueth òme ère tant aucupat que ne nautèc eth cap quan arribèc eth petit prince.'
+target: 'Este hombre estaba tan abstraído que ni siquiera levantó la cabeza a la llegada del principito.'
+
+source: 'Vint-e sies e cinc trenta un.'
+target: 'Veintiocho y tres treinta y uno.'
+
+source: 'tornè a demanar eth petit prince que jamès renonciac a ua question un viatge que l’auie hèta.'
+target: 'volvió a preguntar el principito, que nunca en su vida había renunciado a una pregunta una vez que la había formulado.'
+
+source: 'Milious de qué?'
+target: '¿Millones de qué?'
+
+source: 'Esteles?'
+target: '¿Estrellas?'
+
+source: 'Les possedísqui.'
+target: 'Las poseo.'
+
+source: 'Aquò, diguère entre eth madeish eth petit prince, rasonè un shinhau com eth mèn beucòr.'
+target: '"Este, se dijo a sí mismo el principito, razona poco más o menos como mi borracho".'
+
+source: 'Quan tròbes un diamant que non ei de degun, ei tòn.'
+target: 'Si te encuentras un diamante que nadie reclama, el diamante es tuyo.'
+
+source: 'Jo, se possedissiáu un mocador gran me lo pogui méter ah torn deth còth e emportar-me-lo.'
+target: 'Si yo tengo una bufanda, puedo ponérmela al cuello y llevármela.'
+
+source: 'Mès non ei cap guaire seriòs.'
+target: 'Pero no es muy serio".'
+
+source: 'Tostemp, dilhèu entre eths maishèrs:'
+target: 'Sin embargo, se dijo a sí mismo:'
+
+source: 'Bon dia.'
+target: '¡Buenos días!'
+
+source: 'Bon dia.'
+target: '¡Buenos días!'
+
+source: 'diguéc eth petit prince.'
+target: 'dijo el principito.'
+
+source: 'Bona net.'
+target: '¡Buenas noches!'
+
+source: 'Era tua planeta ei tan petita que ne hèsh ont torn en tres camaradòes.'
+target: 'Tu planeta es tan pequeño que puedes darle la vuelta en tres zancadas.'
+
+source: '«Aquest ei er unic de qui ausas podèr estar amic.'
+target: '"Es el único de quien pude haberme hecho amigo.'
+
+source: 'li diguèc er òme.'
+target: 'le preguntó el anciano.'
+
+source: 'Ei bèu plaça era vòsta planeta.'
+target: 'Es muy hermoso su planeta.'
+
+source: 'Non ei cap eth geògraf que tr’èth compde des viles, des rius, des montanhes, des mars, des oceans e des desèrts. Eth geògraf ei mès import ant ena pasjacsre. Non dèishe eth sò burèu.'
+target: 'El geógrafo no puede estar de acá para allá contando las ciudades, los ríos, las montañas, los océanos y los desiertos; es demasiado importante para deambular por ahí.'
+
+source: 'Jo coneishi a quauqu’un, –diguèt eth petit prince, que serie mau explorador.'
+target: 'Conozco a alguien —dijo el principito—, que sería un mal explorador.'
+
+source: 'Me vas a descriuer era tua planete!'
+target: 'Vas a describirme tu planeta.'
+
+source: 'Tamben è ua ﬂor.'
+target: 'Tengo también una flor.'
+
+source: 'Qué vò díder: “efimer”?'
+target: '¿Qué significa "efímera"?'
+
+source: 'Siguèc eth sòn prumèr moviment de pena.'
+target: 'Por primera vez se arrepintió de haber dejado su planeta, pero bien pronto recobró su valor.'
+
+source: 'Vist des d’un shinhau luenh hège un efècte esplendid.'
+target: 'Vistos desde lejos, hacían un espléndido efecto.'
+
+source: 'Quan se vò èster sabi, passe que mentisses bèth shinhau.'
+target: 'Cuando se quiere ser ingenioso, sucede que se miente un poco.'
+
+source: 'Ja auie pòur d'auere-se enganhat de planeta, quan un anhet deth color dera lua volude legents deth sable.'
+target: 'Tenía miedo de haberse equivocado de planeta, cuando un anillo de color de luna se revolvió en la arena.'
+
+source: 'Non i a degun enes desèrts.'
+target: 'En los desiertos no hay nadie.'
+
+source: 'A on son es òmes?'
+target: 'prosiguió por fin el principito.'
+
+source: 'Aqueth que tòqui, lo torni entara tèrra d'a on a gessut'
+target: 'Al que yo toco, le hago volver a la tierra de donde salió.'
+
+source: 'Eth petit prince trauessèc eth dessèrt e non trobèc qu'ua flor.'
+target: 'El principito atravesó el desierto en el que sólo encontró una flor de tres'
+
+source: 'Mès jamès sabes a on tròbar-les.'
+target: 'hace ya años y nunca se sabe dónde encontrarlos.'
+
+source: 'Bon dia.'
+target: '¡Buenos días!'
+
+source: 'Mès arribèc qu’eth petit prince, auent caminàt molt de temps pes sables, és ròques, e era nhèu, descorbic finament un camin.'
+target: 'Pero sucedió que el principito, habiendo atravesado arenas, rocas y nieves, descubrió finalmente un camino.'
+
+source: 'E se trobè ben maluròs.'
+target: 'Y se sintió muy desgraciado.'
+
+source: 'Bon dia —responéc damb educacion eth petit prince, que se viréc e non vedec arrés.'
+target: '¡Buenos días! respondió cortésmente el principito que se volvió pero no vio nada.'
+
+source: 'Qu’ei vòdèr “amistosar”?'
+target: '¿Qué significa "domesticar"?'
+
+source: 'Cerqui amics.'
+target: 'Busco amigos.'
+
+source: 'Comenci a compréner –diguéc eth petit prince–.'
+target: 'Comienzo a comprender —dijo el principito—.'
+
+source: 'Aquerò ei interessant!'
+target: '¡Qué interesante!'
+
+source: 'Es auti passi me hèn a hiara lèugera. Era tua me harà cridarà tà dètzòra, com ua musica.'
+target: 'Los otros pasos me hacen esconder bajo la tierra; los tuyos me llamarán fuera de la madriguera como una música.'
+
+source: 'diguèc. Ja ac vòi –responèc eth petit prince–, mès non è gaire temps.'
+target: 'Bien quisiera —le respondió el principito pero no tengo mucho tiempo.'
+
+source: 'Prumèr te seiràs un shinhau luenh de jo, atau, ena èrba. Jo te guardarè de reuelh e tu non didèràs arren.'
+target: 'Te sentarás al principio un poco lejos de mí, así, en el suelo; yo te miraré con el rabillo del ojo y tú no me dirás nada.'
+
+source: 'diguèc eth petit prince.'
+target: 'inquirió el principito.'
+
+source: 'Tu n’as eth tort—diguèc eth petit prince,—jo non te volia cap bric de mau, mès tu as volut que t’amistossèsa...'
+target: 'Tuya es la culpa —le dijo el principito—, yo no quería hacerte daño, pero tú has querido que te domestique...'
+
+source: 'Vosates non sètz bric semblantes ara mia ròsa, non ètz arren encara—les diguèc eth.—Dengun vos a amistossat e vosates non auetz amistosat a degun.'
+target: 'No son nada, ni en nada se parecen a mi rosa.'
+
+source: 'Adiu...- diguèc.'
+target: 'Adiós —le dijo.'
+
+source: 'E, cochat ena èrba, plorèc.'
+target: 'dijo el principito.'
+
+source: 'Ja tornen?'
+target: '¿Ya vuelve?'
+
+source: 'estonhen eth nas contra es veiries.'
+target: 'Únicamente los niños aplastan su nariz contra los vidrios.'
+
+source: 'diguéc eth petit prince.'
+target: 'preguntó el principito.'
+
+source: 'Per qué?'
+target: '¿Por qué?'
+
+source: 'Quan aurèrem caminat ores en silenci, se hèc net, e es estèles començèren a esclarsir-se.'
+target: 'Después de dos horas de caminar en silencio, cayó la noche y las estrellas comenzaron a brillar.'
+
+source: 'Jo respondi «as arrason» e guardaua, sense didier arren, es plècs deth sable damb era lum dera lua.'
+target: 'Respondí "seguramente" y miré sin hablar los pliegues que la arena formaba bajo la luna.'
+
+source: 'Tiòc, —li digui ath petit prince—, sigue era casa, es esteles o eth desèrt, aquerò que hè que sigue polit ei invisible!'
+target: 'Sí —le dije al principito— ya se trate de la casa, de las estrellas o del desierto, lo que les embellece es invisible.'
+
+source: 'E, en tot caminar, descorbisc eth potz quan se començè a hèr de dia.'
+target: 'Continué caminando y al rayar el alba descubrí el pozo.'
+
+source: 'Arric, tocquè era còrda, e hec a córrer era polea.'
+target: 'Se rió y tocó la cuerda; hizo mover la roldana.'
+
+source: 'Ère agradable coma hè tot.'
+target: 'Todo era bello como una fiesta.'
+
+source: 'Mès es uelhs non i ven.'
+target: 'Pero los ojos son ciegos.'
+
+source: 'Es tòn baobabs, se semblen un shinhau as caulets...'
+target: 'Tus baobabs parecen repollos...'
+
+source: 'Tu as projèctes que jo non coneishi...'
+target: 'Tú tienes proyectos que yo ignoro...'
+
+source: 'Eth petit prince tonnec a vièr vermelh.'
+target: 'El principito enrojeció nuevamente.'
+
+source: 'Mès jo non èri cap segur. Me’n brembauera dera vop.'
+target: 'Pero yo no estaba tranquilo y me acordaba del zorro.'
+
+source: 'Totun eth petit prince tornè a contèstar:'
+target: 'Y sin embargo, el principito replicó de nuevo.'
+
+source: 'Alavetz jo madeish baishè es uelhs cap ath pè dera paret e hi un bot!'
+target: 'Dirigí la mirada hacia el pie del muro e instintivamente di un brinco.'
+
+source: 'Te’n vas a poder tornar tà casa...'
+target: 'Así podrás volver a tu tierra...'
+
+source: 'arren entà retier-lo...'
+target: 'posible hacer nada para retenerlo.'
+
+source: 'E un aute còp de sanghaüt peth sentiment d’aquero irreparauble.'
+target: 'Me quedé de nuevo helado por un sentimiento de algo irreparable.'
+
+source: 'Aquerò qu’ei important non se ve.'
+target: 'Lo más importante nunca se ve...'
+
+source: 'bona.'
+target: '¡Qué buena era!'
+
+source: 'Justament açò serà eth men present... serà com entar aigua...'
+target: 'Mi regalo será ése precisamente, será como el agua...'
+
+source: 'Tu auràs estèles que saben arrir!'
+target: '¡Tú sólo tendrás estrellas que saben reír!'
+
+source: 'Aquesta net... sabes qué?...'
+target: 'Esta noche ¿sabes?'
+
+source: 'Non te deisharè cap.'
+target: 'He dicho que no te dejaré.'
+
+source: 'Jo non didia arren.'
+target: 'Yo me callaba.'
+
+source: 'Serà agradiu, sabes?'
+target: 'Será agradable ¿sabes?'
+
+source: 'E se seguigue perqué auie pòur.'
+target: 'Dijo aún:'
+
+source: 'cauilhar. Demoréc un moment immòbil.'
+target: 'Quedó un instante inmóvil,'
+
+source: 'moriera que diboishè entath petit prince, me descuèdè de meteri era còrda de cuer! Non l'auc auré podut escapar ar anhèth.'
+target: 'Al bozal que dibujé para el principito se me olvidó añadirle la correa de cuero; no habrá podido atárselo el cordero.'
+
+source: 'Aciu auem un gran mistèri.'
+target: 'Y ahí está el gran misterio.'
+
+source: 'S'alavetz un mainatge va cap a vosati, s'arrís, s'a es peus d'or, e non respon quan se li demane, endevinharatz facilament qui ei.'
+target: 'Si un niño llega hasta ustedes, si este niño ríe y tiene cabellos de oro y nunca responde a sus preguntas, adivinarán en seguida quién es.'
+
