@@ -100,6 +100,21 @@ El proyecto está organizado en los siguientes directorios, cada uno contiene ar
  **4. Fine-tunnig (`Helsinki-NLP/opus-mt-ca-es`)** . Notebook `fine_tunning_transform.ipynb`
  
  **5. Prompting GPT-4o**.  Notebook `prompting_gpt4o_aranes.ipynb`
+
+ ## Uso de Material con Derechos de Autor
+
+En este proyecto se han utilizado textos escaneados del cuento **"El Principito"** y otras obras con derechos de autor, exclusivamente para **fines de investigación** en el ámbito de la **traducción automática y el procesamiento del lenguaje natural**.
+
+### Importante:
+
+- **Los archivos de texto escaneados no se han subido a este repositorio** debido a las restricciones legales impuestas por los derechos de autor.
+- **Todo el contenido protegido por derechos de autor se ha empleado únicamente para experimentos controlados y con fines académicos**.
+- Si deseas replicar este proyecto, necesitarás utilizar tus propios textos de dominio público o con los permisos correspondientes.
+
+Este proyecto sigue los principios del uso justo (*fair use*) para fines educativos y de investigación.
+
+Si tienes preguntas o inquietudes sobre el uso de este material, no dudes en contactarnos.
+
  
 ## Contribuciones
 
