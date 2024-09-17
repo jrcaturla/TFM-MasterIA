@@ -61,7 +61,7 @@ Este proyecto utiliza las siguientes herramientas externas para la alineación d
 2. **LASER**:
    - LASER (Language-Agnostic SEntence Representations) se utiliza para generar embeddings multilingües en este proyecto. Las instrucciones detalladas para utilizar `generar_embeddings.py` están disponibles en su [repositorio oficial de GitHub](https://github.com/facebookresearch/LASER/).
 
-# Estructura de Directorios"
+# Estructura de Directorios
 
 El proyecto está organizado en los siguientes directorios, cada uno contiene archivos clave necesarios para las diferentes fases del proceso de traducción automática:
 
