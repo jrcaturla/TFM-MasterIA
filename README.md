@@ -101,3 +101,15 @@ El proyecto está organizado en los siguientes directorios, cada uno contiene ar
  
  **5. Prompting GPT-4o**.  Notebook `prompting_gpt4o_aranes.ipynb`
  
+## Contribuciones
+
+Si encuentras errores o tienes sugerencias de mejora, no dudes en abrir un issue o enviar un pull request. ¡Toda contribución es bienvenida!
+
+---
+
+### Explicación:
+
+1. **Uso de secciones claras**: Cada script tiene su propia sección con una breve descripción y su formato de entrada/salida.
+2. **Código destacado**: Las secciones de uso del código están envueltas en bloques de código utilizando backticks (` ``` `) para que se visualicen correctamente en Markdown.
+3. **Archivos importantes**: Se proporciona una lista clara de los archivos que forman parte del proyecto, con una breve descripción de su función.
+4. **Cómo usar el proyecto**: Se ofrece una guía clara de los pasos a seguir para ejecutar los scripts en orden.
